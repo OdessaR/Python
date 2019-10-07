@@ -1,6 +1,6 @@
 Simple Python
 
-#Duplicate item
+# Duplicate item
 
 (```)
 def all_unique(1st):
@@ -13,7 +13,7 @@ all_unique(y) #True
 
 (```)
 
-#Check same items in string
+# Check same items in string
 
 (```)
 
