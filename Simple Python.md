@@ -16,7 +16,7 @@ all_unique(y) #True
 
 # Check same items in string
 
-(```)
+```
 
 from collections import Counter
 
@@ -25,4 +25,4 @@ def anagram(first, second):
 
 anagram("abcd3", "3acdb") # Ture
 
-(```)
+```
