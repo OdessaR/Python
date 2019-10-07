@@ -2,7 +2,8 @@ Simple Python
 
 # Duplicate item
 
-(```)
+```
+
 def all_unique(1st):
 	return len(1st) == len(set(1st))
 
@@ -11,7 +12,7 @@ y = [1,2,3,4,5]
 all_unique(x) #False
 all_unique(y) #True
 
-(```)
+```
 
 # Check same items in string
 
